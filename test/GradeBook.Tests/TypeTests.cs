@@ -25,7 +25,8 @@ namespace GradeBook.Tests
         string IncrementCount(string message)
         {
             count++;
-            return message.ToLower;
+
+            return message;
         }
 
         string ReturnMessage(string message)
