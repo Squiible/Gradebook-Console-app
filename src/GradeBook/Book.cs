@@ -10,6 +10,7 @@ namespace GradeBook
     {
         public NamedObject(string name)
         {
+            
             Name = name;
         }
     
